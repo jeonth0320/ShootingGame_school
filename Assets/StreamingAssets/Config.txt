@@ -1,0 +1,15 @@
+moveSpeed = 5
+vector3Up= 1
+vector3Right= 1
+monsterVector3Up = -1
+monsterVector3Right = 0
+spawnRate=1
+bulletInvoke= 5
+bulletSpeed=1
+bulletVector3Up= 1
+bulletVector3Right= 1
+monsterRate = 1
+ 
+isUniform = 1
+isFire = 0
+isRigidBody = 0
